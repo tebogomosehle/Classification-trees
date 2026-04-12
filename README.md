@@ -57,8 +57,7 @@ Key Insights
 - Ensemble methods provided more stability but not a major accuracy boost.
 
 
- Visualizations
-This project includes:
+ Visualizations used:
 - Decision Tree diagram
 - Confusion matrices
 - Feature importance plots (XGBoost)
