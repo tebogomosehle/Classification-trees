@@ -52,9 +52,7 @@ The following evaluation methods were used:
 
 Key Insights
 - Model performance improved slightly after applying ensemble techniques and hyperparameter tuning.
-- However, accuracy capped at 62%, suggesting potential **underfitting or limited predictive signal in the dataset**.
-- Feature relationships were not strong enough for high predictive accuracy using tree-based models alone.
-- Ensemble methods provided more stability but not a major accuracy boost.
+- However, accuracy capped at 62%, suggesting potential underfitting or limited predictive signal in the dataset.
 
 
  Visualizations used:
