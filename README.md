@@ -15,7 +15,7 @@ Preparation:
 - Cleaned dataset for modeling
 - No feature scaling or transformation was applied
 
-Tools & Technologies used
+Tools & Liabraries used
 - Python  
 - Jupyter Notebook  
 - Scikit-learn  
