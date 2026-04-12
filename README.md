@@ -64,9 +64,7 @@ Key Insights
 
 
  Conclusion
-This project demonstrates that while decision trees and ensemble methods can improve performance, model accuracy is ultimately constrained by the quality and predictive power of the dataset.
-
-Even after tuning and applying ensemble techniques, performance plateaued, highlighting the importance of feature strength and data quality in classification problems.
+This project demonstrates that while decision trees and ensemble methods can improve performance, model accuracy is ultimately constrained by the quality and predictive power of the dataset, which leads me to a conclusion that perhaps with a larger datasets results may become better.
 
  Future Improvements
 - Testing other classification models.
