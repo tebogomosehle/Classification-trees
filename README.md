@@ -67,5 +67,4 @@ This project demonstrates that while decision trees and ensemble methods can imp
  Future Improvements
 - Testing other classification models.
 
- Author
-Tebogo Mosehle
+ Author:Tebogo Mosehle
